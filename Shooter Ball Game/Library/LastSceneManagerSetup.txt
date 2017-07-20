@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/WUTWUT.unity
+- path: Assets/Scenes/BallShootingTest.unity
   isLoaded: 1
   isActive: 1
